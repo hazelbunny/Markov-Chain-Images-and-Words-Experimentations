@@ -6,7 +6,7 @@ from json import load, dump
 
 from google_images_search import GoogleImagesSearch
 
-gis = GoogleImagesSearch('AIzaSyBOeH9IU_t4BJtQYKf9nlctAJXVBZ6PmE0', '9f3e3f6c6d96844db')
+gis = GoogleImagesSearch('[key]', '[password]')
 
 import json
 
